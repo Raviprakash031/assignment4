@@ -8,6 +8,8 @@
 */
 
 public class Pattern {
+   public static void main{
+      
      
 //Add main method here
 
